@@ -14,7 +14,7 @@ and open the template in the editor.
            <div class="inner-header">
                <div class="logo">LifeStyle</div>
                <div class="header-link">SignUp</div>
-               <div class="header-link">Lsso2gin</div>
+               <div class="header-link">Lssso2gin</div>
            </div>
        </div>
         <div class="content">
