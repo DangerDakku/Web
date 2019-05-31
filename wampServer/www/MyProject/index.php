@@ -8,13 +8,17 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <link href="css/Style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
        <div class="header">
            <div class="inner-header">
                <div class="logo">LifeStyle</div>
-               <div class="header-link">SignUp</div>
-               <div class="header-link">Lssso2gin</div>
+               <div class="header-link">
+              
+                   <a href="Signup.php"><span class="glyphicon glyphicon-user"></span>SignUp</a>
+               </div>
+               <div class="header-link">Login</div>
            </div>
        </div>
         <div class="content">
