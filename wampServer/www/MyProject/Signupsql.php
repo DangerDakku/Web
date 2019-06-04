@@ -9,4 +9,6 @@ $Password = $_POST['password'];
 $user_registration = "insert into user(Firstname,Lastname,Email,Pass) values('$Firstname','$Lastname','$Email','$Password')";
 $user_submit = mysqli_query($con, $user_registration) or die(mysqli_error($con));
 echo 'sucessfully inserted';
+header('location:login.php');
 
+?>
